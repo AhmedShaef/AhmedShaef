@@ -9,7 +9,6 @@ With ~4 years of professional experience, I enjoy tackling complex problems, des
 **🔭 I’m currently working on:**
 * Honing my skills in backend development and cloud technologies.
 * Contributing to open-source projects.
-* Seeking challenging remote Software Engineer opportunities (especially Golang roles!).
 
 **🌱 I’m currently learning:**
 * Advanced concepts in distributed systems.
